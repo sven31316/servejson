@@ -1,4 +1,10 @@
 {
-name:'lili',
-sex:'man'
+  "name": "lili",
+  "sex": "man",
+  "date": "1244566",
+  "text": "I hope you enjoy learning React!",
+  "author": {
+    "name": "Hello Kitty",
+    "avatarUrl": "https://placekitten.com/g/64/64"
+  }
 }
